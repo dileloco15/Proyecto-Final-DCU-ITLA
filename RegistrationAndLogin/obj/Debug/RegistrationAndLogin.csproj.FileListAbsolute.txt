@@ -1,0 +1,85 @@
+H:\Website\RegistrationAndLogin\bin\Debug\Database.mdf
+H:\Website\RegistrationAndLogin\bin\Debug\Database_log.ldf
+H:\Website\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe.config
+H:\Website\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe
+H:\Website\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.pdb
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csprojAssemblyReference.cache
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Login.resources
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Properties.Resources.resources
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Registration.resources
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.GenerateResource.cache
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.CoreCompileInputs.cache
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.exe
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.pdb
+H:\Website\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Home.resources
+D:\Articles\Code\RegistrationAndLogin\bin\Debug\Database.mdf
+D:\Articles\Code\RegistrationAndLogin\bin\Debug\Database_log.ldf
+D:\Articles\Code\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe.config
+D:\Articles\Code\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe
+D:\Articles\Code\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.pdb
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csprojAssemblyReference.cache
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Home.resources
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Login.resources
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Properties.Resources.resources
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Registration.resources
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.GenerateResource.cache
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.CoreCompileInputs.cache
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.exe
+D:\Articles\Code\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.pdb
+C:\Users\dilel\Desktop\RegistrationAndLogin\bin\Debug\Database.mdf
+C:\Users\dilel\Desktop\RegistrationAndLogin\bin\Debug\Database_log.ldf
+C:\Users\dilel\Desktop\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe.config
+C:\Users\dilel\Desktop\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe
+C:\Users\dilel\Desktop\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.pdb
+C:\Users\dilel\Desktop\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.AssemblyReference.cache
+C:\Users\dilel\Desktop\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Home.resources
+C:\Users\dilel\Desktop\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Login.resources
+C:\Users\dilel\Desktop\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Properties.Resources.resources
+C:\Users\dilel\Desktop\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Registration.resources
+C:\Users\dilel\Desktop\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.GenerateResource.cache
+C:\Users\dilel\Desktop\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.CoreCompileInputs.cache
+C:\Users\dilel\Desktop\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.exe
+C:\Users\dilel\Desktop\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.pdb
+C:\Users\dilel\Desktop\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Apoyo.resources
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\Database.mdf
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\Database_log.ldf
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe.config
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.pdb
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.AssemblyReference.cache
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Apoyo.resources
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Home.resources
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Login.resources
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Properties.Resources.resources
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Registration.resources
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.GenerateResource.cache
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.exe
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.pdb
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\Emgu.CV.World.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\FaceRecognition.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\OpenTK.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\ZedGraph.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\Emgu.CV.World.xml
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\OpenTK.xml
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\ZedGraph.xml
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Jaime Rodriguez\Documents\ITLA\C4\DEV\RegistrationAndLogin (1)\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.CopyComplete
